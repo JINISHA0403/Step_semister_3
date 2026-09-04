@@ -63,3 +63,4 @@ public class BMICalculator {
         scanner.close();
     }
 }
+
